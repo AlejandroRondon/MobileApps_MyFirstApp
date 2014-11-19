@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.Blackrondonapps.myfirstapps.MainActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+       <item
+       android:id="@+id/Acercade"
+       android:orderInCategory="100"
+       android:showAsAction="never"
+       android:title="@string/sCredits"/>
+       
+
+       <item
+       android:id="@+id/Change"
+       android:orderInCategory="100"
+       android:showAsAction="never"
+       android:title="@string/sChanges">
+           <menu>
+                      <item
+				       android:id="@+id/Percents"
+				       android:orderInCategory="100"
+				       android:showAsAction="never"
+				       android:title="@string/sPercents"/>
+           </menu>
+       </item>
+           
+        
+
+</menu>

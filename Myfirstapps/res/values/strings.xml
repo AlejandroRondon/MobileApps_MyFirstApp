@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notas Android</string>
+     <string name="app_name2">Ayuda</string>
+          <string name="app_name3">Cambios</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sQuices">Quices</string> 					<!-- Un string de pruebas modificando en xlm-->
+    <!--<string name="tQuices">Quices Pruebas</string> -->	<!-- Un string de pruebas modificando en el campo text -->
+    <!-- <string name="tQuices2">Quices</string>	-->		<!-- Un string de pruebas agregando usando el framework-->
+	<string name="sPracticas">Practicas</string> 
+	<string name="sExposiciones">Exposiciones</string> 
+	<string name="sProyecto">Proyecto</string> 
+	<string name="sCalcular">Calcular</string> 
+	<string name="sNotaFinal">Nota final</string> 
+	<string name="sAbout">Hecho por Rondon, 12 de Noviembre de 2014, Facultad de ingenieria UdeA </string>
+	<string name="sCredits">Acerca de Notas Android</string>
+	<string name="sPercents">Porcentajes</string>
+	<string name="sChanges">Cambios</string>
+	<string name="sGuardar">Guardar</string>
+	<string name="sReset">Reset</string>
+</resources>

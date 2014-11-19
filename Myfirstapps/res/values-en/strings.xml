@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Grades</string>
+    <string name="app_name2">Help</string>
+              <string name="app_name3">Changes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sQuices">Quizzes</string> 					<!-- Un string de pruebas modificando en xlm-->
+    <!--<string name="tQuices">Quices Pruebas</string> -->	<!-- Un string de pruebas modificando en el campo text -->
+    <!-- <string name="tQuices2">Quices</string>	-->		<!-- Un string de pruebas agregando usando el framework-->
+	<string name="sPracticas">Practices</string> 
+	<string name="sExposiciones">Expositions</string> 
+	<string name="sProyecto">Proyect</string> 
+	<string name="sCalcular">Calculate</string> 
+	<string name="sNotaFinal">Final Grade</string>
+	<string name="sAbout">Made by Rondon, 12 of November de 2014, Faculty of engineering UdeA </string>
+	<string name="sCredits">About Android Grades</string>
+	<string name="sPercents">Percents</string>
+	<string name="sChanges">Changes</string>
+	<string name="sGuardar">Save</string>
+</resources>
